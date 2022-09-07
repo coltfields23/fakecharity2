@@ -9,28 +9,28 @@ html,body {
 
 
 #header {
+    background-color:red;
+    padding: 2%;
+    font-size:xx-large;
 
-    font-size:70px;
-    background-color: red;
-    padding:0;
-    margin:4px;
-    border: 3px 10px solid red;
+    margin: 1% 20%;
+    border: 20px red;
+    border-radius: 70px ;
 }
 
 #description {
-    font-size: x-large;
+    font-size: large;
 }
+
 .images {
-    width:900px;
-    display:block;
-    margin:auto;
-    border: 9px solid black;
-    border-radius: 10px;
-    margin-bottom: 20px;
+    width: 70%;
+    align-items: center;
+    margin-right:15%;
+    margin-left: 15%;
 }
 
 .button {
-    display: flex;
-    justify-content: center;
     align-items: center;
+    margin-right:50%;
+    margin-left: 50%;
 }
